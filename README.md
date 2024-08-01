@@ -27,4 +27,4 @@ The dataset used for this analysis is provided in the `data/` directory. It incl
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/mall-customer-segmentation.git
+   git clone https://github.com/Neeel222/mall-customer-segmentation.git
